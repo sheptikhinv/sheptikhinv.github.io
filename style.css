@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+* {
+    background-color: #22313F;
+}
+
+#timer {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    white-space: pre-line;
+    font-family: 'Montserrat', sans-serif;
+    color: #F89406;
+    font-size: 32px;
+}
